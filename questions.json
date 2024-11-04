@@ -1,0 +1,230 @@
+{
+  "heading": "Comparative and Superlative Adjectives",
+  "topics": [
+    {
+      "heading": "Comparative and Superlative Adjectives",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Find the adjective that compares: \"This fish is smaller than that fish.\"",
+          "options": [
+            { "text": "Fish" },
+            { "text": "Smaller" },
+            { "text": "That" }
+          ],
+          "answer": 1,
+          "explanation": "Smaller is a comparative adjective showing that this fish is less big than the other fish."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank: \"He is the ______ in the class.\"",
+          "options": [
+            { "text": "Tall" },
+            { "text": "Taller" },
+            { "text": "Tallest" }
+          ],
+          "answer": 2,
+          "explanation": "Tallest is a superlative adjective that shows he is the most tall in the entire class."
+        },
+        {
+          "questionNo": 3,
+          "question": "Find the adjective that compares: \"Today is hotter than yesterday.\"",
+          "options": [
+            { "text": "Hotter" },
+            { "text": "Hot" },
+            { "text": "Yesterday" }
+          ],
+          "answer": 0,
+          "explanation": "Hotter is a comparative adjective that indicates today has more heat than yesterday."
+        },
+        {
+          "questionNo": 4,
+          "question": "Find the adjective that compares: \"The blue dress is prettier than the red dress.\"",
+          "options": [
+            { "text": "Prettier" },
+            { "text": "Blue" },
+            { "text": "Dress" }
+          ],
+          "answer": 0,
+          "explanation": "Prettier is a comparative adjective showing that the blue dress has more beauty than the red dress."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank: \"That was the ______ race I have ever run.\"",
+          "options": [
+            { "text": "Fast" },
+            { "text": "Faster" },
+            { "text": "Fastest" }
+          ],
+          "answer": 2,
+          "explanation": "Fastest is a superlative adjective that indicates this race was the fastest of all."
+        },
+        {
+          "questionNo": 6,
+          "question": "Find the adjective that compares: \"My sister is younger than I am.\"",
+          "options": [
+            { "text": "Younger" },
+            { "text": "Sister" },
+            { "text": "I" }
+          ],
+          "answer": 0,
+          "explanation": "Younger is a comparative adjective that shows my sister is less old than I am."
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank: \"This is the ______ dog I have ever seen!\"",
+          "options": [
+            { "text": "Cutest" },
+            { "text": "Cuter" },
+            { "text": "Cute" }
+          ],
+          "answer": 0,
+          "explanation": "Cutest is a superlative adjective that means this dog is the most cute of all."
+        },
+        {
+          "questionNo": 8,
+          "question": "Find the adjective that compares: \"The red apple is sweeter than the green apple.\"",
+          "options": [
+            { "text": "Green" },
+            { "text": "Red" },
+            { "text": "Sweeter" }
+          ],
+          "answer": 2,
+          "explanation": "Sweeter is a comparative adjective showing that the red apple has more sweetness than the green apple."
+        },
+        {
+          "questionNo": 9,
+          "question": "Fill in the blank: \"He is the ______ player on the team.\"",
+          "options": [
+            { "text": "Good" },
+            { "text": "Better" },
+            { "text": "Best" }
+          ],
+          "answer": 2,
+          "explanation": "Best is a superlative adjective showing he is the most good player on the team."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank: \"She is ______ than her brother.\"",
+          "options": [
+            { "text": "Smart" },
+            { "text": "Smarter" },
+            { "text": "Smartest" }
+          ],
+          "answer": 1,
+          "explanation": "Smarter is a comparative adjective that shows she is more smart than her brother."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which of the following is a superlative adjective?",
+          "options": [
+            { "text": "Taller" },
+            { "text": "Tall" },
+            { "text": "Tallest" }
+          ],
+          "answer": 2,
+          "explanation": "Tallest is a superlative adjective because it indicates that one thing is the tallest compared to all others in a group."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which of the following is a comparative adjective?",
+          "options": [
+            { "text": "Better" },
+            { "text": "Best" },
+            { "text": "Good" }
+          ],
+          "answer": 0,
+          "explanation": "Better is a comparative adjective because it compares two things, showing that one is more good than the other."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which of the following is a superlative adjective?",
+          "options": [
+            { "text": "Colder" },
+            { "text": "Cold" },
+            { "text": "Coldest" }
+          ],
+          "answer": 2,
+          "explanation": "Coldest is a superlative adjective because it indicates that something has the most coldness compared to all others in a group."
+        },
+        {
+          "questionNo": 14,
+          "question": "Find the adjective that compares: \"The giraffe is taller than the zebra.\"",
+          "options": [
+            { "text": "Taller" },
+            { "text": "Zebra" },
+            { "text": "Giraffe" }
+          ],
+          "answer": 0,
+          "explanation": "Taller is a comparative adjective because it compares the height of two animals, showing the giraffe is taller than the zebra."
+        },
+        {
+          "questionNo": 15,
+          "question": "Find the adjective that compares: \"The chocolate cake is sweeter than the vanilla cake.\"",
+          "options": [
+            { "text": "Sweeter" },
+            { "text": "Vanilla" },
+            { "text": "Cake" }
+          ],
+          "answer": 0,
+          "explanation": "Sweeter is a comparative adjective because it compares the taste of two cakes, showing one is more sweet than the other."
+        },
+        {
+          "questionNo": 16,
+          "question": "Find the adjective that compares: \"This book is longer than the other one.\"",
+          "options": [
+            { "text": "Other" },
+            { "text": "Book" },
+            { "text": "Longer" }
+          ],
+          "answer": 2,
+          "explanation": "Longer is a comparative adjective because it compares the length of two books, showing one is longer than the other."
+        },
+        {
+          "questionNo": 17,
+          "question": "Find the adjective that compares: \"Her backpack is heavier than mine.\"",
+          "options": [
+            { "text": "Heavier" },
+            { "text": "Backpack" },
+            { "text": "Mine" }
+          ],
+          "answer": 0,
+          "explanation": "Heavier is a comparative adjective because it compares the weight of two backpacks, showing one is more heavy than the other."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blank: \"My house is ______ than yours.\"",
+          "options": [
+            { "text": "Tall" },
+            { "text": "Taller" },
+            { "text": "Tallest" }
+          ],
+          "answer": 1,
+          "explanation": "Taller is a comparative adjective that shows my house is taller compared to your house."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which of the following is a superlative adjective?",
+          "options": [
+            { "text": "Bigger" },
+            { "text": "Big" },
+            { "text": "Biggest" }
+          ],
+          "answer": 2,
+          "explanation": "Biggest is a superlative adjective that means something is the most big compared to everything else."
+        },
+        {
+          "questionNo": 20,
+          "question": "Fill in the blank: \"This test was ______ than the last one.\"",
+          "options": [
+            { "text": "Hard" },
+            { "text": "Harder" },
+            { "text": "Hardest" }
+          ],
+          "answer": 1,
+          "explanation": "Harder is a comparative adjective that shows the current test was more difficult than the previous one."
+        }
+      ]
+    }
+  ]
+}
